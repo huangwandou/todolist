@@ -35,6 +35,9 @@
         >
       </li>
     </ul>
+    <h1>
+      <router-link to="vuexdemo">跳转至vuex练习</router-link>
+    </h1>
   </div>
 </template>
 

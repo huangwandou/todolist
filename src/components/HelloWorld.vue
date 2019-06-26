@@ -15,6 +15,9 @@
     <h1>
       <router-link to="todolist">跳转至todolist</router-link>
     </h1>
+    <h1>
+      <router-link to="vuexdemo">跳转至vuex练习</router-link>
+    </h1>
   </div>
 </template>
 
